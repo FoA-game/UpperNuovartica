@@ -3,7 +3,7 @@
 Facts about Upper Nuovartica: 
 The White Tower is located in the heart of Upper Nuovartica, a city that emerged from the ruins of Old Artica City after the Mass Disruption. Situated on a vast, elevated plateau, the tower is surrounded by a modern urban landscape that reflects the city's commitment to technological innovation and architectural prowess. The city's layout is designed to emphasize the central role of the White Tower, with radial streets and boulevards converging towards the tower, making it a focal point of the urban skyline.
 
-Upper Nuovartica is bordered by the Great Wall and an impenetrable Fortress, which protects the city from the harsh wilderness beyond. These boundaries instill a sense of security and isolation among the citizens, who remain largely unaware of the struggling tribes and communities outside their city.
+Upper Nuovartica is bordered by the Great Wall and an impenetrable Fortress, protecting the city from the harsh wilderness. These boundaries instill a sense of security and isolation among the citizens, who remain largely unaware of the struggling tribes and communities outside their city.
 
 The area surrounding the White Tower is a bustling metropolis with a diverse array of residential, commercial, and recreational spaces. Public parks, plazas, and green spaces provide residents with areas to relax and socialize. At the same time, cutting-edge research facilities, educational institutions, and cultural centers contribute to the city's status as a hub of knowledge and innovation.
 
