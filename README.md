@@ -1,6 +1,6 @@
 # Upper-Nuovartica
 
-## Stories
+## Story Fragments
 
 - [UN A - Shadowless Lamp](https://github.com/FoA-game/UpperNuovartica/blob/main/EP1/Stories.md#un-a---shadowless-lamp)
 - [UN B - SAD Citizens](https://github.com/FoA-game/UpperNuovartica/blob/main/EP1/Stories.md#un-b---sad-citizens)
