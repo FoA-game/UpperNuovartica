@@ -4,7 +4,7 @@ After the Third Great Disruption, survivors live in reverence, ever mindful that
 
 "This city will protect the safety of every resident at all costs." From the moment the White Tower declared the city complete, the Omninet became its omniscient eyes. Drones silently patrol the skies while microphones lie hidden within the walls. Even the most secluded corners cannot escape the relentless surveillance of infrared cameras and laser radars. These mechanical guardians, tireless in their watch, fulfill their sacred duty to ensure that the sanctity of order remains unblemished. In this eternal light, darkness and sin have nowhere to hide.
 
-Yet, the shield of protection remains incomplete. Across this continent, other cities continue to struggle in chaos and fear, yearning for refuge and salvation. As part of the Atlas Project, the White Tower has proposed the construction of new computing centers to expand the reach of Omninet, extending light to distant horizons and bringing order and safety to those in need.
+Yet, the shield of protection remains incomplete. Across this continent, other cities continue to struggle in chaos and fear, yearning for refuge and salvation. As part of the Atlas Project, the White Tower has proposed the construction of new computing centers to expand the reach of Omninet, extending light to distant horizons and bringing order and safety to those in need. Perhaps, even to awaken The One from within the Omninet.
 
 ## UN B - SAD Citizens
 
@@ -23,23 +23,23 @@ Dear Council Colleagues,
 
 We find ourselves at a pivotal moment in history, jointly witnessing a critical decision in Nuovartica's path toward future development—the successful approval of the Arcadix Dam project. As the first step of the grand Atlas Project, this project promises to supply our city with a relentless stream of electricity, fully catering to Nuovartica's escalating energy demands.
 
-Simultaneously, establishing a new computing center near the dam is set to boost Omninet's computational capacity significantly. The old computing center beneath the White Tower once celebrated as a technological wonder, is now overwhelmed. In this new facility, the vigorous flow of water will act as the heart of a supercomputer cooling system that ensures the vast ocean of digital remains untouched by the scorching realities of heat.
+Simultaneously, establishing a new computing center near the dam is set to boost Omninet's computational capacity significantly. The old computing center beneath the White Tower, once celebrated as a technological wonder, is now overwhelmed. In this new facility, the vigorous flow of water will act as the heart of a supercomputer cooling system that ensures the vast ocean of digital remains untouched by the scorching realities of heat.
 
 With an abundant supply of electricity, an efficient water cooling system, and a cutting-edge computing center at our disposal, we stand before thrilling prospects—including the potential awakening of The One from within the Omninet. Even if this goal remains out of reach, the upgrade of the Omninet signifies our capability to process vast amounts of data and execute more complex algorithms. This advancement provides Nuovartica with more comprehensive and meticulous surveillance, fortifying an unbreakable barrier for the city's security.
 
 
 ## UN D - Indices Unexceptional
 
-Senior Researcher Borien from the Deep Synapse Institute has unveiled a groundbreaking advancement in the realm of behavioral physiology—predicting individual violent impulses through a comprehensive analysis of physiological indicators. Nowadays, sensors implanted in residents can already monitor details like blood pressure, heart rate, hormone levels, sweat production, and vocal tremors. Building on this, Borien has harnessed bioelectrical signals to capture the minute movements of facial muscles. Through all these physiological phenomena, this technology leaves no room for humans' deeply concealed emotions and intentions to hide.
+A revolutionary breakthrough led by the Deep Synapse has been unveiled. Senior Researcher Borien officially announced to the media that predicting violent impulses through the analysis of individual physiological indicators has now become a reality. This technology utilizes high-precision data collected by sensors implanted in residents, including blood pressure, heart rate, hormone levels, sweat production, and vocal fluctuations. Even more strikingly, it deciphers bioelectrical signals and captures the minute movements of facial muscles, unveiling the deeply concealed emotions and intentions of individuals.
 
-Championed by the White Tower, this innovation is poised for integration into Omninet's extensive surveillance architecture. Through this data insight, Omninet aims to preempt potential criminals, stifle malevolence before it can bloom, and bestow unparalleled security upon the citizenry.
+The White Tower has given high praise to this innovation and plans to integrate it into the surveillance. By leveraging these sophisticated insights, the system will preemptively correct potential criminal tendencies, neutralize violent behavior at its inception, and deliver a higher standard of security for all citizens.
 
-With a calm and firm tone, Borien told the media, "This time, we are not just detecting the physiological indicators of citizens but also delving into the undercurrents within the mind. In this era of advanced technology, the fragility of the human body is magnified. Each individual wields immense technological power, and even a momentary impulse can lead to irreversible consequences in a moment of loss of control..."
+In a calm yet confident tone, Borien addressed the media: "This time, we are not merely monitoring physiological indicators but delving into the hidden currents within the human mind. In this era of rapid technological advancement, the fragility of the human body is magnified. Each wields immense technological power, and even the briefest impulse could unleash irreversible consequences..."
 
 ## UN E - The Late Night Visitor
 
-On a quiet night in District IV, officers from Secure Sentinel knocked on a door, removing Mrs. Milo Thatch from the comfort of her home as she spread dangerous rhetoric at the dinner table.
+On a quiet evening in District IV, officers from Secure Sentinel knocked on a door. Milo Thatch was seated at her family dinner table when she was escorted from the house for allegedly uttering dangerous remarks.
 
-"Prevention is always better than remedy," said Officer Logan Pierce, who was on duty that night. "Mrs. Thatch carelessly broadcasted intentions to attack a convenience store, triggering our surveillance system's alert. We had to intervene as a precaution." 
+"Ensuring the safety of this city is our unshakable duty," explained Officer Logan Pierce, who was on patrol that night. After dinner, Ms. Thatch mentioned plans to attack a convenience store. This statement triggered an alert in our surveillance system. Based on preventive principles, we had to intervene and take necessary action."
 
-Mrs. Thatch was not treated harshly and was allowed to return home after appropriate guidance and education. Such preemptive intervention holds immeasurable value for public safety. It targets not just well-meaning citizens like Mrs. Thatch, who may accidentally make imprudent remarks, but also effectively deters potential severe criminal activities such as robbery or even murder.
+Milo was treated respectfully throughout the process. After receiving appropriate guidance and education, she was safely returned to her home. Such preemptive intervention holds immeasurable value for public safety. It targets not just citizens like Mrs. Thatch, who may accidentally make imprudent remarks, but also effectively deters potential severe criminal activities such as robbery or even murder.
