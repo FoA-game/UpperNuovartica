@@ -8,11 +8,17 @@ Yet, beneath this omnipresent gaze, a clandestine yearning begins to take root. 
 
 ## UN B - SAD Citizens
 
-Recently, Nuovartica has been afflicted once again by cases of Surveillance Anxiety Disorder (SAD). Several residents have succumbed to an irrational fear of surveillance devices, choosing isolation over venturing beyond their doorsteps. A man, tormented by sleepless nights, in a desperate act, destroyed most electronic devices within his home and around the neighborhood. The surveillance system apprehended him as he was frantically chopping at tree trunks with an axe, attempting to find internal cables.
+**File Number:** LD7894
 
-It must be understood that the discomfort experienced by those with SAD may simply be nostalgia for a more chaotic and unstructured past. Our omnipresent monitoring exists for the welfare of every citizen. Real-time surveillance ensures we can offer immediate assistance to anyone in need, from lost children to the elderly requiring urgent medical care. Statistics reveal that this quarter alone, 462 individuals have had their lives saved thanks to timely intervention.
+**Incident Name:** Surge in Surveillance Anxiety Disorder (SAD) Cases
 
-To those who voice concerns over SAD, perhaps a reassessment of their stance is in order. Under the protection of the Omninet, personal privacy has evolved into a collective responsibility. We are no longer isolated entities but tightly-knit community members. Instead of being treated, those citizens who feel uneasy need education and guidance to better integrate into the harmonious society that we all maintain together.
+**Incident Overview:** Over the past 30 days, Nuovartica has recorded 78 suspected cases of Surveillance Anxiety Disorder (SAD), with 31 confirmed diagnoses, marking a significant outbreak. Patients typically display an extreme aversion to surveillance devices, accompanied by social withdrawal and destructive tendencies.
+
+In one notable case, a middle-aged man suffering from chronic insomnia experienced a mental breakdown. He destroyed multiple electronic devices in his home and attempted to damage municipal infrastructure (a tree trunk) with an axe, searching for hidden surveillance equipment. Secure Sentinel identified the threat within 3.2 seconds and promptly apprehended the individual. The incident resulted in no injuries.
+
+**Assessment:** The reactions of SAD patients stem from an irrational fear of surveillance. The Omninet, as the cornerstone of Nuovartica’s safety and order, remains indispensable. This quarter alone, 462 residents have received timely medical assistance or other critical aid facilitated by real-time monitoring.
+
+Under the Omninet’s protection, every resident contributes to a harmonious society. Citizens experiencing unease do not require treatment but rather education and guidance to help them adapt and integrate into this interconnected community.
 
 
 ## UN C - Racing to the Sea
