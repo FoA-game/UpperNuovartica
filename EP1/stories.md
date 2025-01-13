@@ -17,15 +17,20 @@ Yet, the shield of protection remains incomplete. Across this continent, other c
 **Assessment:** The reactions of SAD patients stem from an irrational fear of surveillance. The Omninet, as the cornerstone of Nuovartica’s safety and order, remains indispensable. This quarter alone, 462 residents have received timely medical assistance or other critical aid facilitated by real-time monitoring. Under the Omninet’s protection, every resident contributes to a harmonious society. Citizens experiencing unease do not require treatment but rather education and guidance to help them adapt and integrate into this interconnected community.
 
 
-## UN C - Racing to the Sea
+## UN C - Clear Skies
 
-Dear Council Colleagues,
+Dear Rayen,
 
-We find ourselves at a pivotal moment in history, jointly witnessing a critical decision in Nuovartica's path toward future development—the successful approval of the Arcadix Dam project. As the first step of the grand Atlas Project, this project promises to supply our city with a relentless stream of electricity, fully catering to Nuovartica's escalating energy demands.
+Recently, my health has improved significantly, and my brother has just received his new organs. I can finally calm down and explain to you what happened that day.
 
-Simultaneously, establishing a new computing center near the dam is set to boost Omninet's computational capacity significantly. The old computing center beneath the White Tower, once celebrated as a technological wonder, is now overwhelmed. In this new facility, the vigorous flow of water will act as the heart of a supercomputer cooling system that ensures the vast ocean of digital remains untouched by the scorching realities of heat.
+The scene is still vividly etched in my mind. The Ceras aerosol came like a lurking viper, suddenly invading Mak’s body. He collapsed to the ground, clutching his throat with both hands. At that moment, fear pinned me in place, rendering me powerless even to reach out and help him. All I could do was watch as his life seemed to slip away through his fingers. But just when despair overwhelmed me, I heard the hum of drones. They descended from the sky like some miracle. Within mere minutes, Mak was pulled back from the brink of death. Watching him gradually regain his breath, I couldn’t hold back my tears.
 
-With an abundant supply of electricity, an efficient water cooling system, and a cutting-edge computing center at our disposal, we stand before thrilling prospects—including the potential awakening of The One from within the Omninet. Even if this goal remains out of reach, the upgrade of the Omninet signifies our capability to process vast amounts of data and execute more complex algorithms. This advancement provides Nuovartica with more comprehensive and meticulous surveillance, fortifying an unbreakable barrier for the city's security.
+Before arriving here, we wandered through countless places, witnessing far too much devastation. Misfortune, like a corrosive venom, had reduced humanity to fragments. But now, under the shelter of the White Tower, my brother and I have finally found a place where we can feel safe.
+
+I look forward to hearing from you. Take care.
+
+Your forever friend,
+Nadya
 
 
 ## UN D - Indices Unexceptional
