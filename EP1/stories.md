@@ -1,11 +1,10 @@
 ## UN A - Shadowless Lamp
 
-Nuovartica, the only paradise of human civilization, promises to ensure the personal safety of every resident at all costs. After the Great Disruption, the survivors constantly remind themselves that the shadows of war, disease, hunger, and death have never been far away. Life still faces various threats—whether from violent attacks or invisible killers like the Ceras aerosol.
+After the Third Great Disruption, survivors live in reverence, ever mindful that the shadows of war, disease, hunger, and death continue to linger. Nuovartica, hailed as the only paradise, stands as the final salvation of human civilization.
 
-From the day the rulers of the White Tower announced its completion, the "Omninet" has become the eyes of the city. Drones silently patrol the skies; microphones within walls capture every whisper; and even in the most secluded corners, the ceaseless surveillance of infrared cameras and laser radars leaves no misdeed concealed.  These mechanical guardians, tireless in their watch, ensure that no cracks or turbulence can gestate beneath the surface of order. In this expanse, solitude and darkness cease to exist. 
+“This city will protect the safety of every resident at all costs.” From the moment the White Tower declared the city complete, the "Omninet" became its omniscient eyes. Drones silently patrol the skies while microphones lie hidden within the walls. Even the most secluded corners cannot escape the relentless surveillance of infrared cameras and laser radars. These mechanical guardians, tireless in their watch, carry out their sacred duty to ensure that the sanctity of order remains unblemished. In this eternal light, darkness and sin have nowhere to hide.
 
-Yet, beneath this omnipresent surveillance, a clandestine yearning for a corner of privacy takes root. Even as light pervades every inch of the city, some seek shadows to hide their secrets. Under the watchful eye of the Omninet, an unknown question quietly emerges: what is left of freedom when every breath is monitored?
-
+Yet, beneath this omnipresent gaze, a clandestine yearning begins to take root. Even as light pervades every inch of the city, some seek shadows to conceal their secrets. Under the watchful eye of the Omninet, an unknown question quietly emerges: what is left of freedom when every breath is observed?
 
 ## UN B - SAD Citizens
 
