@@ -19,7 +19,7 @@ They soar between cityscapes, reaching accident sites with unmatched speed and p
 Undoubtedly, they are the protectors of countless lives in this city. 
 
 ### UN 05 - Mask
-The biometric faces of The Apostle are so lifelike they can fool almost anyone <br>
+The biometric faces of The Apostle are so lifelike they can fool almost anyone. <br>
 These humanoid machines possess no will of their own and serve as instruments for the Omninet to monitor community culture. <br> 
 Their actions and speech mirror those of humans. Few can see through their disguise.
 
