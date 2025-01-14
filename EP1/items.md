@@ -34,7 +34,7 @@ Introduced a year ago, the computing center's insufficient processing power stil
 
 ### UN 08 - Watcher Bees
 7,000 micro flying robots dispersed throughout the city, equipped with multi-functional sensors, silently weave through crowds. <br>
-In Upper Novartica, attacking these surveillance bees is considered a serious crime. Yet, residents tormented by SAD spare no effort to hunt and destroy these mechanical sentinels at any cost.
+In Novartica, attacking these surveillance bees is considered a serious crime. Yet, residents tormented by SAD spare no effort to hunt and destroy these mechanical sentinels at any cost.
 
 ### UN 09 - EMP Remnants
 A bomb deployed amidst crowds years ago, instantly crippling all electronic devices within an 800-meter radius. <br>
