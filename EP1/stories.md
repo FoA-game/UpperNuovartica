@@ -28,7 +28,7 @@ Recently, my health has improved significantly, and my brother has just received
 
 The scene is still vividly etched in my mind. The Ceras aerosol came like a lurking viper, suddenly invading Mak’s body. He collapsed to the ground, clutching his throat with both hands. At that moment, fear pinned me in place, rendering me powerless even to reach out and help him. All I could do was watch as his life seemed to slip away through his fingers. But just when despair overwhelmed me, I heard the hum of drones. They descended from the sky like some miracle. Within mere minutes, Mak was pulled back from the brink of death. Watching him gradually regain his breath, I couldn’t hold back my tears.
 
-Before arriving here, we wandered through countless places, witnessing far too much devastation. Misfortune, like corrosive venom, had reduced humanity to fragments. But now, under the shelter of the White Tower, my brother and I have finally found a place where we can settle down.
+Before arriving here, we wandered through countless places, witnessing far too much devastation. I have seen lost travelers in the desert reduced to withered corpses; I have watched petty disputes ignite into blood-soaked massacres; and I have borne witness to the merciless trampling of life by K.O.S. Misfortune is like a poison that corrodes the soul, silently disintegrating humanity into shattered fragments. But now, under the shelter of the White Tower, my brother and I have finally found a place where we can settle down.
 
 I look forward to hearing from you. Take care.
 
