@@ -1,10 +1,13 @@
 ## UN A - Shadowless Lamp
 
-After the Third Great Disruption, survivors live in reverence, ever mindful that the shadows of war, disease, hunger, and death continue to linger. Nuovartica, hailed as the only paradise, stands as the final salvation of human civilization.
+After the Third Great Disruption, survivors live in reverence, ever mindful that the shadows of war, plague, famine, and death continue to linger. Nuovartica, hailed as the only paradise, stands as the final salvation of human civilization.
 
 "This city will protect the safety of every resident at all costs." From the moment the White Tower declared the city complete, the Omninet became its omniscient eyes. Drones silently patrol the skies while microphones lie hidden within the walls. Even the most secluded corners cannot escape the relentless surveillance of infrared cameras and laser radars. These mechanical guardians, tireless in their watch, fulfill their sacred duty to ensure that the sanctity of order remains unblemished. In this eternal light, darkness and sin have nowhere to hide.
 
-Yet, the shield of protection remains incomplete. Across this continent, other cities continue to struggle in chaos and fear, yearning for refuge and salvation. As part of the Atlas Project, the White Tower has proposed the construction of new computing centers to expand the reach of Omninet, extending light to distant horizons and bringing order and safety to those in need. Perhaps, even to awaken The One from within the Omninet.
+Yet, the shield of protection remains incomplete. Across this continent, other cities continue to struggle in chaos and fear, yearning for refuge and salvation. As part of the Atlas Project, the White Tower has proposed the construction of new computing centers to expand the reach of Omninet, extending light to distant horizons and bringing order and safety to those in need. 
+
+Perhaps even "The One" shall awaken from the radiant embrace of the Omninet.
+
 
 ## UN B - SAD Citizens
 
