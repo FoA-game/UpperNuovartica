@@ -1,12 +1,12 @@
 ## UN A - Shadowless Lamp
 
-After the Third Great Disruption, survivors live in reverence, ever mindful that the shadows of war, plague, famine, and death continue to linger. Nuovartica, hailed as the only paradise, stands as the final salvation of human civilization.
+After the Third Great Disruption, the immortal cities crumbled into ruins, and once-glorious nations were reduced to remnants and rubble. War, plague, famine, and death swept across the land like tidal waves, consuming life and hope in their path. When the survivors emerged from their hibernation pods, flames of fear danced in their eyes, and the shadow of past sins clung to their souls. Novartica, a city hailed as a celestial sanctuary, stood as humanity’s final beacon, illuminating the path to salvation.
 
-"This city will protect the safety of every resident at all costs." From the moment the White Tower declared the city complete, the Omninet became its omniscient eyes. Drones silently patrol the skies while microphones lie hidden within the walls. Even the most secluded corners cannot escape the relentless surveillance of infrared cameras and laser radars. These mechanical guardians, tireless in their watch, fulfill their sacred duty to ensure that the sanctity of order remains unblemished. In this eternal light, darkness and sin have nowhere to hide.
+"This city will protect the safety of every resident at all costs." When the White Tower rose from the ruins, this solemn vow transformed into the Omninet, casting its presence over every inch of the city. Drones patrolled the skies above, microphones lay hidden within walls, and infrared cameras and lidar gazed at the most secluded corners. These mechanical guardians tirelessly fulfill their sacred duty to ensure that the sanctity of order remains unblemished. In this eternal light, darkness and sin found no refuge.
 
-Yet, the shield of protection remains incomplete. Across this continent, other cities continue to struggle in chaos and fear, yearning for refuge and salvation. As part of the Atlas Project, the White Tower has proposed the construction of new computing centers to expand the reach of Omninet, extending light to distant horizons and bringing order and safety to those in need. 
+Yet the shield of light was not without flaws. Beyond the city’s borders, the boundless wastelands remained shrouded in the endless night of chaos and despair. And so, the White Tower raised its holy flame, proclaiming the advent of the Atlas Project—the light of the Omninet would extend its reach to even farther horizons, spreading the decrees of order to all lands yet untouched by its blessing.
 
-Perhaps even "The One" shall awaken from the radiant embrace of the Omninet.
+Perhaps even “The One” might awaken once more beneath the radiance of the Omninet.
 
 
 ## UN B - SAD Citizens
