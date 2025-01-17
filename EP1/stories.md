@@ -24,15 +24,15 @@ Perhaps even “The One” might awaken once more beneath the radiance of the Om
 
 Dear Rayen,
 
-Recently, my health has improved significantly, and my brother has just received his new organs. I can finally calm down and explain to you what happened that day.
+Recently, my health has improved greatly, and my brother has just received his new organs. At last, I can calm myself enough to recount what happened that dreadful day.
 
-The scene is still vividly etched in my mind. The Ceras aerosol came like a lurking viper, suddenly invading Mak’s body. He collapsed to the ground, clutching his throat with both hands. At that moment, fear pinned me in place, rendering me powerless even to reach out and help him. All I could do was watch as his life seemed to slip away through his fingers. But just when despair overwhelmed me, I heard the hum of drones. They descended from the sky like some miracle. Within mere minutes, Mak was pulled back from the brink of death. Watching him gradually regain his breath, I couldn’t hold back my tears.
+I can still see it as though it were unfolding before me. The Ceras aerosol crept in, silent and venomous, striking Mak like a serpent coiled in darkness. He fell to his knees, clawing at his throat with desperation. In that moment, terror rooted me to the spot—I lacked even the strength to reach for him. Helplessly, I watched as his life ebbed away, slipping grain by grain, like sand through fingers. And then, just when despair seemed ready to devour me whole, I heard the low hum of drones descending from the distant sky.  In mere minutes, Mak was wrested back from the abyss. As I watched his breath slowly return to him, tears—hot, bitter, and relentless—spilled freely from my eyes.
 
-Before arriving here, we wandered through countless places, witnessing far too much devastation. I have seen lost travelers in the desert reduced to withered corpses; I have watched petty disputes ignite into blood-soaked massacres; and I have borne witness to the merciless trampling of life by K.O.S. Misfortune is like a poison that corrodes the soul, silently disintegrating humanity into shattered fragments. But now, under the shelter of the White Tower, my brother and I have finally found a place where we can settle down.
+Before arriving here, we wandered from place to place, witnessing far too much devastation. I have seen lost travelers in the desert reduced to lifeless husks; I have watched trivial disputes ignite into bloody massacres; I have even the unfeeling cruelty with which K.O.S. trampled upon life. Misfortune is not merely an external force—it is a poison that seeps into the soul. But now, under the shelter of the White Tower, my brother and I have finally found a place where we can settle down.
 
-I look forward to hearing from you. Take care.
+I await your reply with a heart both heavy and hopeful. May you find peace under the same sky that now shelters us.
 
-Your forever friend,
+Your always, <br>
 Nadya
 
 
