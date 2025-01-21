@@ -1,10 +1,10 @@
 ## UN A - Shadowless Lamp
 
-After the Third Great Disruption, the immortal cities crumbled into ruins, and once-glorious nations were reduced to remnants and rubble. War, plague, famine, and death swept across the land like tidal waves, consuming life and hope in their path. When the survivors emerged from their hibernation pods, flames of fear danced in their eyes, and the shadow of past sins clung to their souls. Nuovartica, a city hailed as a celestial sanctuary, stood as humanity’s final beacon, illuminating the path to salvation.
+After the Third Great Disruption, the immortal cities crumbled into ruins, and once-glorious nations were reduced to remnants and rubble. War, plague, famine, and death swept across the land like tidal waves, consuming life and hope in their path. When the survivors emerged from their hibernation pods, flames of fear danced in their eyes, and the shadow of past sins clung to their souls. Nuovartica, a city hailed as a celestial sanctuary, stood as humanity’s final beacon.
 
 "This city will protect every life at all costs." When the White Tower rose from the ruins, this solemn vow transformed into the Omninet, casting its presence over every inch of the city. Drones patrolled the skies above, microphones lay hidden within walls, and infrared cameras and lidar gazed at the most secluded corners. These mechanical guardians tirelessly fulfill their sacred duty to ensure that the sanctity of order remains unblemished. In this eternal light, darkness and sin found no refuge.
 
-Yet the shield of light was not without flaws. Beyond the city’s borders, the boundless wastelands remained shrouded in the endless night of chaos and despair. And so, the White Tower raised its holy flame, proclaiming the advent of the Atlas Project—the light of the Omninet would extend its reach to even farther horizons, spreading the decrees of order to all lands yet untouched by its blessing.
+Yet the shield of light was not without flaws. Beyond the city’s borders, the boundless wastelands remained shrouded in an endless night of chaos and despair. And so, the White Tower raised its holy flame, proclaiming the advent of the Atlas Project. The light of the Omninet would extend its reach to even farther horizons, spreading the decrees of order to all lands yet untouched by its blessing.
 
 Perhaps even “The One” might awaken once more beneath the radiance of the Omninet.
 
