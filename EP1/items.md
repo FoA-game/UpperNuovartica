@@ -26,7 +26,7 @@ Their actions and speech mirror those of humans. Few can see through their disgu
 ### UN 06 - Damaged Gas Exchanger
 A widely popular external artificial lung designed to alleviate the respiratory difficulties of patients with pulmonary fibrosis. <br>
 Due to exposure to Ceras aerosol, the device has lost its core function, with a mere five minutes from struggle to stillness. <br>
-In the face of immense tragedy, people found themselves unable to weep.
+In the face of great misfortune, people found themselves unable to cry.
 
 ### UN 07 - Implanted Tracker
 A micro-device embedded deep within the flesh, the Omninet's delicate tendril reaching into the tangible world. <br>
