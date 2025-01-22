@@ -46,8 +46,11 @@ In a calm yet confident tone, Borien addressed the media: "This time, we are not
 
 ## UN E - The Late Night Visitor
 
-On a quiet evening in District IV, officers from Secure Sentinel knocked on a door. Milo Thatch was seated at her family dinner table when she was escorted from the house for allegedly uttering dangerous remarks.
+On a quiet evening in District IV, officers from Secure Sentinel from Secure Sentinel knocked on a door and removed Ms. Milo Thatch, who was sitting at the family dinner table, from her house.
 
 "Ensuring the safety of this city is our unshakable duty," explained Officer Logan Pierce, who was on patrol that night. After dinner, Ms. Thatch mentioned plans to attack a convenience store. This statement triggered an alert in our surveillance system. Based on preventive principles, we had to intervene and take necessary action."
 
-Milo was treated respectfully throughout the process. After receiving appropriate guidance and education, she was safely returned to her home. However, this incident is far more than a simple misunderstanding—it unveils the hidden dangers lurking within our world. Countless past tragedies have already proven that the immense power we wield can either serve as a force for progress or, in an instant, ignite the fuse of destruction. In such an environment, the importance of preventative intervention becomes unmistakable. It not only protects individuals like Milo, who may unintentionally misspeak, but also serves to swiftly suppress potential threats that could escalate into unrest, violence, or even acts of murder.
+Milo was treated respectfully throughout the process. After receiving appropriate guidance and education, she was safely returned to her home. Yet this incident was far more than a simple misunderstanding; it revealed the latent dangers embedded within our world. The countless tragedies of the past have proven that humanity is endowed with limitless potential—but this innate power for creation is forever bound to destruction.
+
+For this very reason, preventative intervention proves indispensable. It not only protects individuals like Milo, who may unintentionally misspeak, but also quells the unrest, violence, and even massacre that might otherwise ignite. And so, the fragile peace of this city continues.
+
